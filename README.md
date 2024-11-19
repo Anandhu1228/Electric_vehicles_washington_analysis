@@ -4,7 +4,7 @@ DATA SET LINK  : https://www.kaggle.com/datasets/iottech/electric-vehicle-data-1
 
 ANALYSIS REPORT LINK : https://www.canva.com/design/DAGWVYW9YvA/reYNhMkG1SRMP53fzq7s3A/view?utm_content=DAGWVYW9YvA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-PYTHON CODES USED ARE MENTIONS IN just_code.py
+PYTHON CODES USED ALONG WITH RESULTS AND PLOT NUMBERS ARE SPECIFIED IN 
 
 IF YOU WANT AN ANALYSIS ABOUT THE ELECTRI VEHICLE SALES, YOU CAN REFER THE ABOVE LINK WHICH CONTAINS THE MAJOR PYTHON CODE WHICH I USED.
 
